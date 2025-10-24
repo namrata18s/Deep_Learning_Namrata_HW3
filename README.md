@@ -48,19 +48,13 @@ pip install torch transformers tqdm
 
 ### Running the Code
 
-**Option 1: Jupyter Notebook (Recommended for Palmetto)**
+** Jupyter Notebook (Recommended for Palmetto)**
 
 1. Open `bert_qa.ipynb` in JupyterHub
 2. Upload data files to the same directory
 3. Run all cells sequentially (Shift+Enter)
 4. Results saved in `predictions.json`
 
-**Option 2: Python Script**
-
-```bash
-# Ensure data files are in current directory
-python bert_qa.py
-```
 
 ### Expected Output
 
